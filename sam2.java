@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
-
+//creating a class
 class sam2
 {
     protected void finalize()
